@@ -6,6 +6,20 @@ A professional implementation of a Clueso-style documentation builder that trans
 
 This application enables users to create, manage, and share interactive documentation guides. Users can build step-by-step tutorials, generate AI-enhanced summaries, and preview professional documentation pages.
 
+## 🎥 Demo Video
+
+A complete walkthrough of the application demonstrating the end-to-end Clueso-style documentation workflow is available here:
+
+👉 **[Watch Demo Recording](https://drive.google.com/file/d/1h1JM9oeiPYAePT2RcfXN5imsRndmoR0t/view?usp=sharing)**
+
+The video covers:
+- Landing page overview
+- User authentication
+- Guide creation
+- Step-based documentation flow
+- AI summary generation (mocked)
+- Final documentation preview
+
 ## 🔧 Tech Stack
 
 ### Frontend
