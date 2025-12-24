@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* Tailwind v4 Dark Mode - Class-based Configuration */
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #f8fafc;
+  /* slate-50 */
+  --foreground: #0f172a;
+  /* slate-900 */
+}
+
+.dark {
+  --background: #020617;
+  /* slate-950 */
+  --foreground: #f8fafc;
+  /* slate-50 */
+}
+
+/* Enforcing light mode for consistent base, but allowing dark overrides */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
