@@ -21,6 +21,27 @@ This application enables users to create, manage, and share interactive document
 - **Database**: MongoDB (via Mongoose)
 - **Authentication**: JWT (JSON Web Tokens)
 
+##🎥 Demo Video
+
+A complete walkthrough of the application demonstrating the end-to-end Clueso-style documentation workflow is available here:
+
+👉 Demo Recording:
+https://drive.google.com/file/d/1h1JM9oeiPYAePT2RcfXN5imsRndmoR0t/view?usp=sharing
+
+The video covers:
+
+Landing page overview
+
+User authentication
+
+Guide creation
+
+Step-based documentation flow
+
+AI summary generation (mocked)
+
+Final documentation preview
+
 ## 🏗️ Architecture
 
 ```
